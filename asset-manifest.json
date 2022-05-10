@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/whattowatch/static/css/main.a8358c85.css",
+    "main.js": "/whattowatch/static/js/main.690f9525.js",
+    "index.html": "/whattowatch/index.html",
+    "static/media/search.svg": "/whattowatch/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.a8358c85.css.map": "/whattowatch/static/css/main.a8358c85.css.map",
+    "main.690f9525.js.map": "/whattowatch/static/js/main.690f9525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8358c85.css",
+    "static/js/main.690f9525.js"
+  ]
+}
